@@ -119,9 +119,7 @@ Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
 
-
 animals = [camel, lion, deer, goose, bat, rabbit]
-
 
 while True:
     print("Please enter the number of the habitat you would like to view:")
